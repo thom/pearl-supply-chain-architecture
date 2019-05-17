@@ -1,11 +1,11 @@
-## Project 6: Architect a Blockchain Supply Chain Solution
+# Project 6: Architect a Blockchain Supply Chain Solution
 
 This project architects a Pearl Supply Chain. See the following links for information on cultured pearls and oyster farming:
 * https://en.m.wikipedia.org/wiki/Cultured_pearl
 * https://en.m.wikipedia.org/wiki/Oyster_farming
 * https://www.thepearlsource.com/blog/about-akoya-pearls/akoya-oysters-cultivation-work/
 
-### UML diagrams
+## UML diagrams
 
 The diagrams folder contains the UML diagrams for the supply chain:
 * Activity diagram
