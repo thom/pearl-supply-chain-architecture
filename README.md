@@ -12,3 +12,7 @@ The diagrams folder contains the UML diagrams for the supply chain:
 * Sequence diagram
 * State diagram
 * Classes diagram
+
+## Requirements
+
+Graded according to the [Project Rubric](https://review.udacity.com/#!/rubrics/2447/view).
