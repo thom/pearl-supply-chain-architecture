@@ -1,4 +1,4 @@
-# Project 6: Architect a Blockchain Supply Chain Solution
+# Udacity Blockchain Developer Nanodegree Program - Project 6: Architect a Blockchain Supply Chain Solution
 
 This project architects a Pearl Supply Chain. See the following links for information on cultured pearls and oyster farming:
 * https://en.m.wikipedia.org/wiki/Cultured_pearl
