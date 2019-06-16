@@ -16,3 +16,8 @@ The diagrams folder contains the UML diagrams for the supply chain:
 ## Requirements
 
 Graded according to the [Project Rubric](https://review.udacity.com/#!/rubrics/2447/view).
+
+## License
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- Copyright 2019 © <a href="https://github.com/thom" target="_blank">Thomas Weibel</a>.
